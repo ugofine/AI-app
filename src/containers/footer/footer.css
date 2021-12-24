@@ -46,7 +46,7 @@
     align-items: flex-start;
     flex-wrap: wrap;
     flex-direction: row;
-    width: 100%;
+    width: 80%;
     text-align: left;
     
 }
@@ -129,7 +129,7 @@
     }
 
     .gpt3__footer-btn p {
-        font-size: 40px;
+        font-size: 30px;
         line-height: 20px;  
     }
 }
